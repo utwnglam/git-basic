@@ -1,2 +1,3 @@
 some contents
 update newfile.txt
+make changes
