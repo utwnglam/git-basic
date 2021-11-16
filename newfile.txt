@@ -1,3 +1,8 @@
 some contents
 update newfile.txt
 make changes
+
+What is the difference between add, commit, and push?
+"add" can add untracked files as files to be committed.
+"commit" groups all the current local tracked file changes.
+"push" update all the file change to remote repository.
